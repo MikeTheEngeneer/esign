@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://storage.filebin.net/filebin/55853784216d0a32104ce82333d27663ed11d5176d7725b0aba00b9479849340?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GK352fd2505074fc9dde7fd2cb%2F20260502%2Fhel1-dc4%2Fs3%2Faws4_request&X-Amz-Date=20260502T235422Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&response-cache-control=max-age%3D900&response-content-disposition=inline%3B%20filename%3D%22ESign.ipa%22&response-content-type=application%2Fzip&x-id=GetObject&X-Amz-Signature=8d1ca7dc7a65843ec77a006799c4c27608b7cb8ac3697d00b4214eb02c316328</string>
+<string>https://raw.githubusercontent.com/MikeTheEngeneer/esign/refs/heads/main/ESign_5.0.2_1777764838.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -29,7 +29,7 @@
 <key>metadata</key>
 <dict>
                 <key>bundle-identifier</key>
-                <string>p3.xyz.yyyue.esign.zls</string>
+                <string>p3.xyz.yyyue.esign.zis</string>
                 <key>bundle-version</key>
                 <string>5.0.2</string>
                 <key>kind</key>
